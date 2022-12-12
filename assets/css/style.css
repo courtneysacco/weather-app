@@ -1,0 +1,49 @@
+header{
+    background-image: linear-gradient(to right, pink, rgb(240, 192, 103));
+    color: darkred;
+    text-align: center;
+    padding: 8px;
+}    
+
+.container-fluid h1 {
+    font-size: 50px;
+}
+
+.btn {
+    background-color: peachpuff;
+    border-color: black;
+    color: black;
+}
+
+.btn:hover {
+    background-color: rgb(254, 164, 85);
+}
+
+#history input{
+    background-color: rgb(234, 166, 166);
+    margin-bottom: 8px;
+}
+
+#history input:hover {
+    background-color: rgb(229, 105, 105);
+}    
+
+h3 {
+    font-weight: bolder;
+    margin-top: 5px;
+    }
+
+    .input {
+        margin-bottom: 8px;
+    }
+
+    #search-button {
+        margin-bottom: 15px;
+    }
+
+    .five-day {
+        background-color: peachpuff;
+        margin: 15px;
+        border-radius: 10px;
+    }
+

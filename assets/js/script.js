@@ -139,3 +139,4 @@ function showWeather(cityName) {
         showWeather(searchesEl[searchesEl.length - 1]);
     }
 
+    
